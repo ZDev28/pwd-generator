@@ -1,0 +1,21 @@
+button{
+  border: none;
+  background: mediumblue;
+  color: white;
+}
+button:hover{
+  background: yellow;
+  transition: all 0.5s ease;
+  color: black;
+}
+*{
+  font-family: cursive, sans-serif;
+}
+body{
+  background: skyblue;
+}
+input{
+  background: yellow;
+  color: mediumblue;
+  border: none;
+}
